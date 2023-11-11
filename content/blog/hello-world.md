@@ -1,13 +1,11 @@
 +++
-title = "Hello World"
-description = "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title = "Hellodsd World"
 date = 2021-05-01T09:19:42+00:00
-updated = 2021-05-01T09:19:42+00:00
 draft = false
 template = "blog/page.html"
 
 [extra]
-lead = "This is the source code of the traditional <b>Hello World</b> program."
+lead = "Thisqw is the source code of the traditional <b>Hello World</b> program."
 +++
 
 ```rust
@@ -36,3 +34,10 @@ $ rustc hello.rs
 $ ./hello
 Hello World!
 ```
+![](/linux_logo5.png)  
+NNNN  
+MMMM
+
+
+> 编辑：XXX  
+> 排版：XXX
