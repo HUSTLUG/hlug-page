@@ -7,7 +7,7 @@ template = "blog/page.html"
 [extra]
 lead = "Thisqw is the source code of the traditional <b>Hello World</b> program."
 +++
-
+test
 ```rust
 // This is a comment, and is ignored by the compiler
 
