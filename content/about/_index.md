@@ -11,4 +11,4 @@ QQ群：184198364
 
 微信公众号：LUG of HUST
 
-加入我们：[点此进入问卷星](https://www.wjx.cn/vm/PLh6swD.aspx#)
+加入我们：[点此进入问卷星](https://www.wjx.cn/vm/ePi5B03.aspx#)
