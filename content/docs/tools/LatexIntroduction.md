@@ -53,11 +53,11 @@ Overleaf 平台提供了丰富的各类 LaTeX 模板，您可以在 [Overleaf �
 
 ### 华中科技大学硕士学位论文 LaTeX 模板
 
-1. 来自 xxxx：[点击此处查看模板](https://latex.hlug.cn/read/jscxvzfdsvgv)
+1. [点击此处查看模板](https://latex.hlug.cn/read/jscxvzfdsvgv)
 
 ### 华中科技大学博士学位论文 LaTeX 模板
 
-1. xxx
+1. 该模板由 [Huang Yuxi](https://github.com/huangyxi) 提供：[github 地址](https://github.com/hust-latex/hustthesis.git)； [HLUG Latex 平台地址](https://latex.hlug.cn/read/mvspwjmgkbrt)
 
 
 
